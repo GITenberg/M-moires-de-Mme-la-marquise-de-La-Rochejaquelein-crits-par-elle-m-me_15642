@@ -1,0 +1,31 @@
+_repo: M-moires-de-Mme-la-marquise-de-La-Rochejaquelein-crits-par-elle-m-me_15642
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Rochejaquelein, Marie-Louise-Victoire marquise de
+    alias: Rochejaquelein, Marie-Louise-Victoire de Donniss la
+    birthdate: 1772
+    deathdate: 1857
+    gutenberg_agent_id: '6176'
+    url: http://www.gutenberg.org/2009/agents/6176
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2005-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15642'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Wars of the Vendée, 1793-1832 -- Personal narratives'
+- !lcsh 'La Rochejaquelein, Marie-Louise-Victoire, marquise de, 1772-1857'
+title: 'Mémoires de Mme la marquise de La Rochejaquelein
+
+  écrits par elle-même'
+url: http://www.gutenberg.org/ebooks/15642
